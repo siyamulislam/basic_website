@@ -1,2 +1,3 @@
-# basic_websitef 
+# basic_website
 just for practice 
+:)
